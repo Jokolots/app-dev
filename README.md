@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-**Harry Potter**
+**HARRY POTTER**
 
 ![MV5BMjE0YjUzNDUtMjc5OS00MTU3LTgxMmUtODhkOThkMzdjNWI4XkEyXkFqcGdeQXVyMTA3MzQ4MTc0 _V1_](https://github.com/Jokolots/app-dev/assets/152492097/c42c8bba-0e8e-4c18-862f-e8e2769c9dd8)
 
